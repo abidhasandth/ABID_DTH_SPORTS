@@ -60,6 +60,9 @@ http://xtv.ooo:8080/Sehrish/12345/245940
 #EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", WILLOW HD
 http://xtv.ooo:8080/Sehrish/12345/245940 
 
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", WILLOW CRICKET HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
 #EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", ASTRO CRICKET HD
 http://xtv.ooo:8080/Sehrish/12345/245940 
 
@@ -76,4 +79,16 @@ http://xtv.ooo:8080/Sehrish/12345/245940
 http://xtv.ooo:8080/Sehrish/12345/245940 
 
 #EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", WWE HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", SPORTS 18 HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", STAR SPORTS 1 HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", SONY SPORTS 1 HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", FIFA PLUS HD
 http://xtv.ooo:8080/Sehrish/12345/245940 

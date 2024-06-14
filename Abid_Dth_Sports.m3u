@@ -4,31 +4,77 @@
 http://xtv.ooo:8080/Sehrish/12345/245940
 
 
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXoFgogj_tcqNU6jtr0n41o/ts
-#EXTINF: -1 tvg-name="Sonic Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/48942282904605980f8da906b9c4ed5d.png" group-title="KIDS", Sonic Hindi
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW6UhHdyIzSQ7--gpJL4hJg/ts
-#EXTINF: -1 tvg-name="Super Hungama" group-title="KIDS", Super Hungama
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUzuiAerk_k2JCuIwMb4UZk/ts
-#EXTINF: -1 tvg-name="Sony Ten 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/95e673577bb0726bba74cf538bcbd24c.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 1 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTEs_EjEZ7Yf_Jx02VSuj7g/ts
-#EXTINF: -1 tvg-name="Sony Ten 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/1ac33cea25728a9e5181c63cc5fefa78.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 2 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXvDSK9g6Fg9nbA6o2TcFQc/ts
-#EXTINF: -1 tvg-name="Sony Ten 3 HD" tvg-logo="http://lifetvbd.xyz:8080/images/7468071e59103c0ad9f97aaddb381ac8.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 3 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaBYUXiK8mknWGb7tRlSkQY/ts
-#EXTINF: -1 tvg-name="Sony Ten 5 HD" tvg-logo="http://lifetvbd.xyz:8080/images/26ee9f0a2b315f3bc627c93ba4a6e1d3.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 5 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcjjo7uZvDRKzbwOzsHE1yk/ts
-#EXTINF: -1 tvg-name="Star Sports 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/f0ae48928080f4260e7a1d6bfffc6c6f.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports 1 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT_YwovXWh5oO4f_xTdS7yk/ts
-#EXTINF: -1 tvg-name="Star Sports 1 HD Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/b3a553e5b2bc560f1f54ebfb3aba6c93.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports 1 HD Hindi
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTPugtTtw552351nbhcCvGw/ts
-#EXTINF: -1 tvg-name="Star Sports 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/65f773022f9a918b171149276a853008.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports 2 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcf3uIj6iv9kDX8QQsfif2Q/ts
-#EXTINF: -1 tvg-name="Star Sports 3" tvg-logo="http://lifetvbd.xyz:8080/images/917c53e7782fac4d45e179d98c6b1b61.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports 3
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfym4GWRiYw-r-p3Irb0xgw/ts
-#EXTINF: -1 tvg-name="Star Sports Select 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/a1449592b0120eaf34e8aeb2305eb35a.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports Select 1 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdgHlP_aX098fzKVPs__IQ0/ts
-#EXTINF: -1 tvg-name="Star Sports Select 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/e42adaadcc5802782c8cf4820ce7f937.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports Select 2 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXaYDDbQS_h6j1v5CrHrLDY/ts
-#EXTINF: -1 tvg-name="Star Maa Movies" group-title="Tamil Channel", Star Maa Movies
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQVR6xZMyT2BxLkIuW9a7JI/ts
-#EXTINF: -1 tvg-name=
+#EXTINF:-1 tvg-logo="lohg" group-title="Live Match", 
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Live Match", 
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Live Match", 
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Live Match", 
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Live Match", 
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", NAGORIK TV HD
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", GAZI TV HD
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", T SPORTS HD
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", SKY SPORTS HD
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", SKY SPORTS CRICKET HD
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", PTV SPORTS HD
+http://xtv.ooo:8080/Sehrish/12345/24594
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", TEN SPORTS HD
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", TNT SPORTS CRICKET HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", SUPER SPORTS HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", SUPER SPORTS CRICKET HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", BEIN SPORTS HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", COPA AMERICA HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", UEFA EURO HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", WILLOW HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", ASTRO CRICKET HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", SS1 HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", EURO SPORTS HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", ESPN HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", FOX SPORTS HD
+http://xtv.ooo:8080/Sehrish/12345/245940 
+
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", WWE HD
+http://xtv.ooo:8080/Sehrish/12345/245940 

@@ -18,19 +18,19 @@ http://xtv.ooo:8080/Sehrish/12345/245940
 #EXTINF:-1 tvg-logo="lohg" group-title="Live Match", 
 http://xtv.ooo:8080/Sehrish/12345/245940
 
-#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", NAGORIK TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3PHhR6/20240615-014158.png" group-title="Sports Channel", NAGORIK TV HD
 http://113.212.111.246:8080/hls/col12.m3u8
 
-#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", GAZI TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgQ7VGj/20240615-014403.png" group-title="Sports Channel", GAZI TV HD
 http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLN5VG7QecDhiNPvF7JnP1cI/ts
 
-#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", T SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rvQfRS8/20240615-014536.png" group-title="Sports Channel", T SPORTS HD
 http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLBASI_JJnSocnIjYO6ukgwA/ts
 
-#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", SKY SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQpt72d/20240615-021220.png" group-title="Sports Channel", SKY CRICKET HD
 http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLOi4bodPTJeW4xMXD5Es0bs/ts
 
-#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", SKY SPORTS CRICKET HD
+#EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", SKY SPORTS FOOTBALL HD
 http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLNXvQLEpljs4_kinfmaXblg/ts
 
 #EXTINF:-1 tvg-logo="lohg" group-title="Sports Channel", PTV SPORTS HD
